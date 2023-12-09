@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\WeChat\WeChat Files\wxid_7880128801212\FileStorage\File\2023-12\practice12_09.c" />
+    <ClCompile Include="..\..\..\..\WeChat\WeChat Files\wxid_7880128801212\FileStorage\File\2023-12\practice.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
